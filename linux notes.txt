@@ -1,0 +1,20 @@
+# PCManFM (and helloSystem Filer)
+DES-EMA
+https://wiki.archlinux.org/title/PCManFM#Adding_custom_items_to_the_context_menu
+
+# Dolphin (KDE)
+Service Menus
+https://develop.kde.org/docs/apps/dolphin/service-menus/#the-start-of-servicemenu
+
+# Thunar (XFCE)
+Custom Actions (undocumented file format), not ideal
+https://docs.xfce.org/xfce/thunar/custom-actions
+
+# Gnome Files / Nautilus (Gnome)
+Nautilus Scripts
+https://wiki.archlinux.org/title/GNOME/Files#Custom_scripts
+
+# Nemo (Cinnamon)
+Nemo Actions
+https://community.linuxmint.com/tutorial/view/2486
+
